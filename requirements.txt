@@ -1,0 +1,2 @@
+streamlit>=1.40
+Office365-REST-Python-Client==2.6.2

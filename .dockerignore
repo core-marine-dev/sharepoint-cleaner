@@ -1,0 +1,9 @@
+.git
+.env
+*.pem
+*.cer
+*.pfx
+*.key
+__pycache__
+.ruff_cache
+.mypy_cache
